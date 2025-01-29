@@ -11,3 +11,4 @@ This repository contains various projects I've been working on to showcase my pr
 - [Simple Calculator](https://github.com/svcrim/C-Projects/tree/main/Simple%20Calculator)
 
 ## Projects I'm Working On
+- None
